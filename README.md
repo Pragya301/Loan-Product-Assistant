@@ -1,4 +1,4 @@
-Bank of Maharashtra Loans – RAG Chatbot
+Bank of Maharashtra Loans RAG Chatbot
 
 A complete end-to-end Retrieval-Augmented Generation (RAG) system built using scraped content from the Bank of Maharashtra – Loans section.
 This project demonstrates real-world web scraping, vector search, semantic chunking, and LLM-powered chatbot development.
@@ -24,15 +24,15 @@ RAG Pipeline – Retrieving relevant text during Q&A
 Chat Interface – Gemini model + custom conversation memory
 Features
 
-✔ Crawls and scrapes dynamic pages using Selenium
-✔ Extracts all loan-related sections from the Bank of Maharashtra
-✔ Saves each page’s text separately for transparency
-✔ Uses Semantic Chunker for intelligent text segmentation
-✔ Creates a FAISS IndexFlatL2 vector store
-✔ Implements an efficient and scalable RAG pipeline
-✔ Integrates Google Gemini as the LLM
-✔ Custom lightweight chat memory using Python lists
-✔ Clean and modular code for maintainability
+Crawls and scrapes dynamic pages using Selenium
+Extracts all loan-related sections from the Bank of Maharashtra
+Saves each page’s text separately for transparency
+Uses Semantic Chunker for intelligent text segmentation
+Creates a FAISS IndexFlatL2 vector store
+Implements an efficient and scalable RAG pipeline
+Integrates Google Gemini as the LLM
+Custom lightweight chat memory using Python lists
+Clean and modular code for maintainability
 
 
 Web Scraping Approach
@@ -143,4 +143,5 @@ Author
 
 Pragya Bharti
 RAG Engineer • Data Science & AI﻿# Loan-Product-Assistant
+
 
