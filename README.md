@@ -106,7 +106,7 @@ Before generating each answer, the last few turns of history are included to kee
 This is lightweight, fast, and easily controllable.
 
 Installation
-git clone https://github.com/yourusername/maharashtra-bank-rag.git
+git clone https://github.com/pragya/maharashtra-bank-rag.git
 cd maharashtra-bank-rag
 
 pip install -r requirements.txt
@@ -143,5 +143,6 @@ Author
 
 Pragya Bharti
 RAG Engineer • Data Science & AI﻿# Loan-Product-Assistant
+
 
 
